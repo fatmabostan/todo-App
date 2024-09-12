@@ -1,50 +1,35 @@
-# Welcome to your Expo app 👋
+<h1 align="center" id="title">To-Do App</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center"><img src="https://socialify.git.ci/fatmabostan/todo-App/image?description=1&amp;descriptionEditable=A%20full-stack%20to-do%20app%20built%20with%20React%20Native%20and%20Firebase.&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-## Get started
 
-1. Install dependencies
+<p id="description">A simple and user-friendly to-do application built with React Native and Expo using Firestore for data storage and Firebase Authentication for user authentication. This app helps users organize their tasks set priorities and manage their daily to-do lists with ease</p>
 
-   ```bash
-   npm install
-   ```
+<p align="center"><img src="https://i.ibb.co/1Rv4XYp/Untitled.jpg" alt="Untitled" border="0" /></p>
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## Project Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<p align="center"><img src="https://i.ibb.co/1RsygNb/Untitled.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/rtrxTyq/Untitled2.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/4WHvd2Z/Untitled3.jpg" alt="project-screenshot" width="300" height="610/"> </p>
+<p align="center"><img src="https://i.ibb.co/xSqkwCs/Untitled4.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/pRJqZ1q/Untitled5.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/M7nXLqP/Untitled6.jpg" alt="project-screenshot" width="300" height="610/"></p>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## Features
 
-When you're ready, run:
+- Skeleton loading screens during data fetching.
+- User authentication with sign-in and sign-out functionalities.
+- Automatic user login.
+- Cross-platform support for iOS and Android.
+- Separate pages for completed and pending tasks.
+- Donut chart displaying the distribution of completed and pending tasks.
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Tech Stack
 
-## Learn more
+**Client:** React Native, Expo
 
-To learn more about developing your project with Expo, look at the following resources:
+**Backend:** Firebase Firestore, Firebase Authentication
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
