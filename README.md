@@ -11,8 +11,8 @@
 
 ## Project Screenshots
 
-<p align="center"><img src="https://i.ibb.co/1RsygNb/Untitled.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/rtrxTyq/Untitled2.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/4WHvd2Z/Untitled3.jpg" alt="project-screenshot" width="300" height="610/"> </p>
-<p align="center"><img src="https://i.ibb.co/xSqkwCs/Untitled4.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/pRJqZ1q/Untitled5.jpg" alt="project-screenshot" width="300" height="610/"> <img src="https://i.ibb.co/M7nXLqP/Untitled6.jpg" alt="project-screenshot" width="300" height="610/"></p>
+<p align="center"><img src="https://i.ibb.co/1RsygNb/Untitled.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/rtrxTyq/Untitled2.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/4WHvd2Z/Untitled3.jpg" alt="project-screenshot" width="250" height="508/"> </p>
+<p align="center"><img src="https://i.ibb.co/xSqkwCs/Untitled4.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/pRJqZ1q/Untitled5.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/M7nXLqP/Untitled6.jpg" alt="project-screenshot" width="250" height="508/"></p>
 
 
 ## Features
