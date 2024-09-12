@@ -1,0 +1,18 @@
+{
+    "homePage": {
+        "title": "Welcome to Your To Do App!",
+        "message": "Organize your tasks, make your life more efficient, and take steps toward success.",
+        "buttonText": "Continue with Email"
+    },
+    "login": {
+        "title": "Welcome Back!",
+        "message": "Glad to see you again.",
+        "buttonText": "Login",
+        "registerText": "Don't have an account?"
+    },
+    "signup": {
+        "title": "New Account",
+        "buttonText": "Register",
+        "loginText": "Do you have a account already?"
+    }
+}
