@@ -1,8 +1,5 @@
 <h1 align="center" id="title">To-Do App</h1>
 
-<p align="center"><img src="https://socialify.git.ci/fatmabostan/todo-App/image?description=1&amp;descriptionEditable=A%20full-stack%20to-do%20app%20built%20with%20React%20Native%20and%20Firebase.&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
-
-
 <p id="description">A simple and user-friendly to-do application built with React Native and Expo using Firestore for data storage and Firebase Authentication for user authentication. This app helps users organize their tasks set priorities and manage their daily to-do lists with ease</p>
 
 <p align="center"><img src="https://i.ibb.co/1Rv4XYp/Untitled.jpg" alt="Untitled" border="0" /></p>
