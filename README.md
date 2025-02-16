@@ -2,10 +2,6 @@
 
 <p id="description">A simple and user-friendly to-do application built with React Native and Expo using Firestore for data storage and Firebase Authentication for user authentication. This app helps users organize their tasks set priorities and manage their daily to-do lists with ease</p>
 
-<p align="center"><img src="https://i.imgur.com/DuzBlrJ.jpeg" alt="Untitled" border="3" /></p>
-
-
-
 ## Project Screenshots
 
 <p align="center"><img src="https://i.ibb.co/1RsygNb/Untitled.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/rtrxTyq/Untitled2.jpg" alt="project-screenshot" width="250" height="508/"> <img src="https://i.ibb.co/4WHvd2Z/Untitled3.jpg" alt="project-screenshot" width="250" height="508/"> </p>
